@@ -103,3 +103,7 @@ function userSec(s) {
 }
 
 //7. 4 відмінності ерров фанкшина від звичайної функції.
+
+function task7() {
+  alert('Task is in index.html :)')
+}
